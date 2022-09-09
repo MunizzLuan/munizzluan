@@ -1,4 +1,11 @@
-Oii! Eu sou Luan Muniz 👋
+### Olá! Eu sou o Luan Muniz 👋
+
+#### ✅ Sou desenvolvedor Full-Stack, com quase 1 ano de experiência em desenvolvimento web, com ênfase em react e api rest. Já desenvolvi alguns projetos freelancer, e projetos orientados em curso. 
+
+#### 🎈 Migrando de carreira, tenho como foco a comunicação, carisma e paciência e considero essas as caracteristicas que formam minha personalidade. Acredito que a área de tecnologia seja o futuro. 
+
+### ❤ Apaixonado por games, animes e pets. Aaah e claro, um bom cuscuz!! 
+
 <div align="center">
     <a href="https://github.com/munizzluan">
         <img height="180em"
@@ -32,6 +39,3 @@ Oii! Eu sou Luan Muniz 👋
 
 </div>
 
-- 🔭 Hoje estou trabalhando full-stack
-- 🌱 Estudando React
-- 😄 Pronouns: ele/dele
